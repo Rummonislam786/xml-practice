@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <child>
+        <subchild>
+            <bookstore>
+                <book catagory = "Cooking"></book>
+            </bookstore>
+        </subchild>
+    </child>
+    <title lang="en">Everyday Italian</title>
+    <author>Gaida De Laurentiis</author>
+    <year>2005</year>
+    <price>30.00</price>
+</root>
