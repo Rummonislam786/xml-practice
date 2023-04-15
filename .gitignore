@@ -1,0 +1,5 @@
+
+#this will ignore the files and folders that are here to upload in git
+/.vscode
+some.json
+/new_folder
